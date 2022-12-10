@@ -1,4 +1,4 @@
-module gitlab.com/pragmaticreviews/golang-gin-poc
+module gitlab.com/vinhtran2103/core-main
 
 go 1.19
 
